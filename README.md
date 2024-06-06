@@ -30,7 +30,7 @@ index_a.css
 ```
 
 ```sh
-deletebutme delete --deleteDir /path_to_the_deletion_folder  --filterFileDir /path_to_the_items_need_to_stay.txt
+~$ deletebutme delete --deleteDir /path_to_the_deletion_folder  --filterFileDir /path_to_the_items_need_to_stay.txt
 ```
 
 ```
@@ -55,5 +55,5 @@ const DEFAULT_OPTIONS = {
 ```
 
 ```sh
-deletebutme delete --nofile 0 --nodir 0 --extGoes '[".js", ".css", ".html"]'
+~$ deletebutme delete --nofile 0 --nodir 0 --extGoes '[".js", ".css", ".html"]'
 ```
