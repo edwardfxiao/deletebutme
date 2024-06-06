@@ -1,6 +1,6 @@
 # deletebutme
 
-Delete everything except for specific files (in this case, please keep index_a.js and index_a.css).
+Delete everything except for specific files (in this case, please keep `index_a.js` and `index_a.css`).
 
 Of course, you can also use `--inverse 1` to only remove them instead.
 
